@@ -1,0 +1,11 @@
+.menu{
+    padding: .5rem;
+    transition: all .3s ease-in-out;
+    z-index: 222222222;
+}
+
+.menu:hover{
+    background-color: var(-icons-color);
+    color: var(--shadow-dark-color);
+    border-radius: .3rem;
+}
